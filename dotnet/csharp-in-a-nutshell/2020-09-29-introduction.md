@@ -18,7 +18,7 @@ My first full-time job after the bachelor was primarily in C# and some HTML/Jade
 
 I'm thinking of making a seperate blog post per chapter in the book, so that my notes are collected according to the book.
 
-* Chapter 1: Introducing C# and .NET Core
+* [Chapter 1: Introducing C# and .NET Core](2020-09-29-chapter-1-introducing-csharp-and-dotnet-core.md)
 * Chapter 2: Language Basics
 * Chapter 3: Creating Types in C#
 * Chapter 4: Advanced C#
