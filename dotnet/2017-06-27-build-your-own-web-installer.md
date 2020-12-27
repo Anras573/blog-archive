@@ -66,7 +66,7 @@ private void Window_ContentRendered(Object sender, EventArgs e)
 
 If we run our program now our application will look like this:
 <figure class="center">
-	<a href="../assets/images/build-your-own-installer/001.PNG"><img src="../assets/images/build-your-own-installer/001.PNG" alt="image"></a>
+	<a href="../assets/images/build-your-own-installer/001.png"><img src="../assets/images/build-your-own-installer/001.png" alt="image"></a>
 </figure>
 
 What we need to do now, is to download the big installer and continuing updating our progress bar and finally start the installer when it has finished downloaded.
@@ -116,7 +116,7 @@ private void Client_DownloadFileCompleted(object sender, AsyncCompletedEventArgs
 
 This is our web installer now:
 <figure class="center">
-	<a href="../assets/images/build-your-own-installer/002.PNG"><img src="../assets/images/build-your-own-installer/002.PNG" alt="image"></a>
+	<a href="../assets/images/build-your-own-installer/002.png"><img src="../assets/images/build-your-own-installer/002.png" alt="image"></a>
 </figure>
 
 As a final touch, we'll add an icon to our web installer to make it look more professional.  
@@ -130,7 +130,7 @@ For us to insert this icon, we'll create a folder called icon and paste our icon
 
 You should now be all set, and if all went well, our installer will now look like this:
 <figure class="center">
-	<a href="../assets/images/build-your-own-installer/003.PNG"><img src="../assets/images/build-your-own-installer/003.PNG" alt="image"></a>
+	<a href="../assets/images/build-your-own-installer/003.png"><img src="../assets/images/build-your-own-installer/003.png" alt="image"></a>
 </figure>
 
 Of course, as this is an tutorial I didn't do a lot of exception handling, but that is something that should be implemented in a real web installer.  
